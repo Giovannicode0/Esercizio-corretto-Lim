@@ -1,0 +1,92 @@
+body{
+  background-image:url(immagine.jpg);
+  background-size: cover;
+}
+.container{
+  border: 1px solid black;
+  padding: 0px;
+  background-color: #08000057;
+  font-family: 'Roboto Mono', monospace;
+  margin: 100px;
+}
+#logo{
+  height: 100px;
+  width: 250px;
+  text-align: center;
+}
+h2{
+  color: #62d522f0;
+
+}
+.titolo{
+  text-align: center;
+}
+.tabella{
+  margin: auto;
+  margin: 40px;
+  padding: 10px;
+  background-color: #62d522f0;
+  text-align: center;
+
+}
+.row{
+  display: inline-block;
+  height: 20px;
+
+}
+.row-right{
+  display: inline-block;
+  height: 20px;
+}
+.gino22{
+  background-color: orange;
+  display: inline-block;
+  height: 50px;
+}
+
+.line{
+  display: inline-block;
+  width: 350px;
+
+
+}
+.line1{
+  display: inline-block;
+  widht:160px;
+
+}
+.listino{
+  color: white;
+  margin: 40px;
+}
+
+p{
+  font-size: 10px;
+}
+.mike{
+  background-color: #62d522f0;
+  display: inline-block;
+  height:50px;
+}
+.line2{
+  display: inline-block;
+  width: 160px;
+}
+.line3{
+  display: inline-block;
+  width: 350px;
+}
+.fedel{
+  background-color: red;
+  display: inline-block;
+  height:50px;
+
+}
+.line4{
+  display: inline-block;
+  width: 65px;
+}
+.line5{
+  display: inline-block;
+  width: 65px;
+}
